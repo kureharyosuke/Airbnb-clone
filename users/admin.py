@@ -25,6 +25,3 @@ class CustomUserAdmin(UserAdmin):
         ),
     )
 
-    # list_display = ("username", "email", "gender", "language", "currency", "superhost")
-    # list_filter = ("language", "currency", "superhost")
-
